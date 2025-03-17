@@ -1,5 +1,5 @@
 version: 2
-updates: 1
+updates: 11
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
